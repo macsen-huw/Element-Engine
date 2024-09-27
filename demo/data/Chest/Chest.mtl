@@ -1,0 +1,6 @@
+
+newmtl Chest
+map_Kd chest_albedo.png
+map_Ns chest_roughness.png
+map_Pm chest_metalness.png
+norm chest_normal.png

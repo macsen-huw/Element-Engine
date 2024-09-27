@@ -1,0 +1,6 @@
+newmtl BrickWall
+map_Kd New_Graph_basecolor.png
+map_Ns New_Graph_roughness.png
+map_Pm New_Graph_metallic.png
+norm New_Graph_normal.png
+disp New_Graph_height.png

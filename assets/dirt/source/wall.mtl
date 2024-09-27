@@ -1,0 +1,6 @@
+newmtl StoneWall
+map_Kd Dirt01_JC_BaseColour_2k.jpg
+map_Ns Dirt01_JC_Roughness_2k.jpeg
+map_Pm New_Graph_metallic.png
+norm Dirt01_JC_Normal_2k.jpeg
+disp Dirt01_JC_Height_2k.jpg

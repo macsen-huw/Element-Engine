@@ -1,0 +1,5 @@
+newmtl fire_hydrant
+map_Kd fire_hydrant_Base_Color.png
+map_Ns fire_hydrant_Roughness.png
+map_Pm fire_hydrant_Metallic.png
+norm fire_hydrant_Normal_OpenGL.png

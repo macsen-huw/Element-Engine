@@ -1,0 +1,7 @@
+newmtl StoneWall
+map_Kd rocks_ground_01_diff_2k.jpg
+norm rocks_ground_01_nor_gl_2k.jpg
+disp rocks_ground_01_disp_2k.jpg
+map_Ns rocks_ground_01_rough_2k.jpg
+map_Pm StoneWall_Metallic.png
+map_Ka rocks_ground_01_ao_2k.jpg

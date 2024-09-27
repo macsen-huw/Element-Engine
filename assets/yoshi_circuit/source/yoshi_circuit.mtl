@@ -1,0 +1,1156 @@
+# Blender MTL File: 'None'
+# Material Count: 96
+
+newmtl ef_sea05
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  ef_sea05_alb.png
+map_d  ef_sea05_alb.png
+norm ef_sea05_nrm.png
+newmtl ef_sea05_ana
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  ef_sea05_ana_alb.png
+map_d  ef_sea05_ana_alb.png
+norm ef_sea05_ana_nrm.png
+newmtl ef_waterfall06_Ocean_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  ef_waterfall06_alb.png
+map_d  ef_waterfall06_alb.png
+norm ef_waterfall06_nrm.png
+newmtl yc_ArrowBanner_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_arrowbanner_t01_alb.png
+map_d  gcyc_arrowbanner_t01_alb.png
+norm gcyc_arrowbanner_t01_nrm.png
+newmtl yc_ArrowBanner_t01_NoTrm
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_arrowbanner_t01_alb.png
+map_d  gcyc_arrowbanner_t01_alb.png
+norm gcyc_arrowbanner_t01_nrm.png
+newmtl yc_ArrowBanner_t01_NoTrm_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_arrowbanner_t01_alb.png
+map_d  gcyc_arrowbanner_t01_alb.png
+norm gcyc_arrowbanner_t01_nrm.png
+newmtl yc_Asphalt_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_asphalt_t01_alb.png
+map_d  gcyc_asphalt_t01_alb.png
+norm gcyc_asphalt_t01_nrm.png
+newmtl yc_Asphalt_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_asphalt_t01_alb.png
+map_d  gcyc_asphalt_t01_alb.png
+norm gcyc_asphalt_t01_nrm.png
+newmtl yc_Asphalt_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_asphalt_t02_alb.png
+map_d  gcyc_asphalt_t02_alb.png
+norm gcyc_asphalt_t02_nrm.png
+newmtl yc_BankNewJump
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_banknewjump_alb.png
+map_d  gcyc_banknewjump_alb.png
+norm gcyc_banknewjump_nrm.png
+newmtl yc_BrickAndTree_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_brickandtree_t01_alb.png
+map_d  gcyc_brickandtree_t01_alb.png
+norm gcyc_brickandtree_t01_nrm.png
+newmtl yc_BrickAndTree_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_brickandtree_t01_alb.png
+map_d  gcyc_brickandtree_t01_alb.png
+norm gcyc_brickandtree_t01_nrm.png
+newmtl yc_BrickGray_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_brickgray_t01_alb.png
+map_d  gcyc_brickgray_t01_alb.png
+norm gcyc_brickgray_t01_nrm.png
+newmtl yc_BrickWhite_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_brickwhite_m01_alb.png
+map_d  gcyc_brickwhite_m01_alb.png
+norm gcyc_brickwhite_m01_nrm.png
+newmtl yc_CircuitMap_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_circuitmap_m01_alb.png
+map_d  gcyc_circuitmap_m01_alb.png
+norm gcyc_circuitmap_m01_nrm.png
+newmtl yc_Cliff_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_cliff_t01_alb.png
+map_d  gcyc_cliff_t01_alb.png
+norm gcyc_cliff_t01_nrm.png
+newmtl yc_Cliff_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_cliff_t01_alb.png
+map_d  gcyc_cliff_t01_alb.png
+norm gcyc_cliff_t01_nrm.png
+newmtl yc_Cloth_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_cloth_m01_alb.png
+map_d  gcyc_cloth_m01_alb.png
+norm gcyc_cloth_m01_nrm.png
+newmtl yc_CmnStartGrid1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_cmnstartgrid1_alb.png
+map_d  gcyc_cmnstartgrid1_alb.png
+norm gcyc_cmnstartgrid1_nrm.png
+newmtl yc_Concrete_m01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_concrete_m01_alb.png
+map_d  gcyc_concrete_m01_alb.png
+norm gcyc_concrete_m01_nrm.png
+newmtl yc_Concrete_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_concrete_m02_alb.png
+map_d  gcyc_concrete_m02_alb.png
+norm gcyc_concrete_m02_nrm.png
+newmtl yc_Concrete_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_concrete_t01_alb.png
+map_d  gcyc_concrete_t01_alb.png
+norm gcyc_concrete_t01_nrm.png
+newmtl yc_CubeMap_TunnelLight
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_light_t01_alb.png
+map_d  gcyc_light_t01_alb.png
+norm gcyc_light_t01_nrm.png
+newmtl yc_CubeMap_Tunnel_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_cubemap_tunnel_m01_emm.png
+map_d  gcyc_cubemap_tunnel_m01_emm.png
+norm gcyc_cubemap_tunnel_m01_nrm.png
+newmtl yc_CurbStone_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_curbstone_t01_alb.png
+map_d  gcyc_curbstone_t01_alb.png
+norm gcyc_curbstone_t01_nrm.png
+newmtl yc_CurbStone_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_curbstone_t01_alb.png
+map_d  gcyc_curbstone_t01_alb.png
+norm gcyc_curbstone_t01_nrm.png
+newmtl yc_DoorGlass_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_doorglass_m01.png
+map_d  gcyc_doorglass_m01.png
+norm gcyc_doorglass_nrm.png
+newmtl yc_DoorWindow_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_doorwindow_m01_alb.png
+map_d  gcyc_doorwindow_m01_alb.png
+norm gcyc_doorwindow_m01_nrm.png
+newmtl yc_Egg_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_egg_m01_alb.png
+map_d  gcyc_egg_m01_alb.png
+norm gcyc_egg_m01_nrm.png
+newmtl yc_EnkeiForest
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_enkeiforest_alb.png
+map_d  gcyc_enkeiforest_alb.png
+norm gcyc_enkeiforest_nrm.png
+newmtl yc_EnkeiSima
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_enkeisima_alb.png
+map_d  gcyc_enkeisima_alb.png
+norm gcyc_enkeisima_nrm.png
+newmtl yc_Floor_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_floor_m01_alb.png
+map_d  gcyc_floor_m01_alb.png
+norm gcyc_floor_m01_nrm.png
+newmtl yc_FlowerLeaf_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_flowerleaf_t01_alb.png
+map_d  gcyc_flowerleaf_t01_alb.png
+norm gcyc_flowerleaf_t01_nrm.png
+newmtl yc_FlowerPot_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_flowerpot_m01_alb.png
+map_d  gcyc_flowerpot_m01_alb.png
+norm gcyc_flowerpot_m01_nrm.png
+newmtl yc_Flowers_t01_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_flowers_t01_alb.png
+map_d  gcyc_flowers_t01_alb.png
+norm gcyc_flowers_t01_nrm.png
+newmtl yc_Frame_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_frame_m02_alb.png
+map_d  gcyc_frame_m02_alb.png
+norm gcyc_frame_m02_nrm.png
+newmtl yc_Frame_m03
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_frame_m03_alb.png
+map_d  gcyc_frame_m03_alb.png
+norm gcyc_frame_m03_nrm.png
+newmtl yc_Grass_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_grass_m01_alb.png
+map_d  gcyc_grass_m01_alb.png
+norm gcyc_grass_m01_nrm.png
+newmtl yc_Grass_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_grass_t01_alb.png
+map_d  gcyc_grass_t01_alb.png
+norm gcyc_grass_t01_nrm.png
+newmtl yc_Grass_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_grass_t02_alb.png
+map_d  gcyc_grass_t02_alb.png
+norm gcyc_grass_t02_nrm.png
+newmtl yc_GuardRail_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_guardrail_t01_alb.png
+map_d  gcyc_guardrail_t01_alb.png
+norm gcyc_guardrail_t01_nrm.png
+newmtl yc_GuardRail_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_guardrail_t01_alb.png
+map_d  gcyc_guardrail_t01_alb.png
+norm gcyc_guardrail_t01_nrm.png
+newmtl yc_HandRails_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_handrails_t01_alb.png
+map_d  gcyc_handrails_t01_alb.png
+norm gcyc_handrails_t01_nrm.png
+newmtl yc_HandRails_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_handrails_t01_alb.png
+map_d  gcyc_handrails_t01_alb.png
+norm gcyc_handrails_t01_nrm.png
+newmtl yc_Kura_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_kura_m01_alb.png
+map_d  gcyc_kura_m01_alb.png
+norm gcyc_kura_m01_nrm.png
+newmtl yc_Kusa_t01_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_kusa_t01_alb.png
+map_d  gcyc_kusa_t01_alb.png
+norm gcyc_kusa_t01_nrm.png
+newmtl yc_LightHouse
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_lighthouse_alb.png
+map_d  gcyc_lighthouse_alb.png
+norm gcyc_lighthouse_nrm.png
+newmtl yc_Light_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_light_t01_alb.png
+map_d  gcyc_light_t01_alb.png
+norm gcyc_light_t01_nrm.png
+newmtl yc_Light_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_light_t01_alb.png
+map_d  gcyc_light_t01_alb.png
+norm gcyc_light_t01_nrm.png
+newmtl yc_Light_t03_ON_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_light_t01_alb.png
+map_d  gcyc_light_t01_alb.png
+norm gcyc_light_t01_nrm.png
+newmtl yc_Light_t03_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_light_t01_alb.png
+map_d  gcyc_light_t01_alb.png
+norm gcyc_light_t01_nrm.png
+newmtl yc_MainBuilding_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_mainbuilding_m02_alb.png
+map_d  gcyc_mainbuilding_m02_alb.png
+norm gcyc_mainbuilding_m02_nrm.png
+newmtl yc_MainBuilding_m03
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_mainbuilding_m03_alb.png
+map_d  gcyc_mainbuilding_m03_alb.png
+norm gcyc_mainbuilding_m03_nrm.png
+newmtl yc_MarioMotors_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_mariomotors_m01_alb.png
+map_d  gcyc_mariomotors_m01_alb.png
+norm gcyc_mariomotors_m01_nrm.png
+newmtl yc_MetalParts_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_metalparts_m01_alb.png
+map_d  gcyc_metalparts_m01_alb.png
+norm gcyc_metalparts_m01_nrm.png
+newmtl yc_Metal_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_metal_m01_alb.png
+map_d  gcyc_metal_m01_alb.png
+norm gcyc_metal_m01_nrm.png
+newmtl yc_Metal_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_metal_m02_alb.png
+map_d  gcyc_metal_m02_alb.png
+norm gcyc_metal_m02_nrm.png
+newmtl yc_Metal_m02_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_metal_m02_alb.png
+map_d  gcyc_metal_m02_alb.png
+norm gcyc_metal_m02_nrm.png
+newmtl yc_Metal_m03_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_metal_m03_alb.png
+map_d  gcyc_metal_m03_alb.png
+norm gcyc_metal_m03_nrm.png
+newmtl yc_PlantA_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_planta_01_alb.png
+map_d  gcyc_planta_01_alb.png
+norm gcyc_planta_01_nrm.png
+newmtl yc_RoadWhite_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roadwhite_t01_alb.png
+map_d  gcyc_roadwhite_t01_alb.png
+norm gcyc_roadwhite_t01_nrm.png
+newmtl yc_RoadWhite_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roadwhite_t01_alb.png
+map_d  gcyc_roadwhite_t01_alb.png
+norm gcyc_roadwhite_t01_nrm.png
+newmtl yc_Road_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_road_t01_alb.png
+map_d  gcyc_road_t01_alb.png
+norm gcyc_road_t01_nrm.png
+newmtl yc_Road_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_road_t01_alb.png
+map_d  gcyc_road_t01_alb.png
+norm gcyc_road_t01_nrm.png
+newmtl yc_Road_t01_a1_SpmG
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_road_t01_alb.png
+map_d  gcyc_road_t01_alb.png
+norm gcyc_road_t01_nrm.png
+newmtl yc_RockEgg_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_rockegg_m01_alb.png
+map_d  gcyc_rockegg_m01_alb.png
+norm gcyc_rockegg_m01_nrm.png
+newmtl yc_RoofA_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roofa_m01_alb.png
+map_d  gcyc_roofa_m01_alb.png
+norm gcyc_roofa_m01_nrm.png
+newmtl yc_RoofB_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roofb_m01_alb.png
+map_d  gcyc_roofb_m01_alb.png
+norm gcyc_roofb_m01_nrm.png
+newmtl yc_RoofB_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roofb_m02_alb.png
+map_d  gcyc_roofb_m02_alb.png
+norm gcyc_roofb_m02_nrm.png
+newmtl yc_Roof_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roof_m01_alb.png
+map_d  gcyc_roof_m01_alb.png
+norm gcyc_roof_m01_nrm.png
+newmtl yc_Roof_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_roof_m02_alb.png
+map_d  gcyc_roof_m02_alb.png
+norm gcyc_roof_m02_nrm.png
+newmtl yc_Signboard_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_signboard_m01_alb.png
+map_d  gcyc_signboard_m01_alb.png
+norm gcyc_signboard_m01_nrm.png
+newmtl yc_StartGate
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_startgate_alb.png
+map_d  gcyc_startgate_alb.png
+norm gcyc_startgate_nrm.png
+newmtl yc_StartGateFlowers_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_flowers_t01_alb.png
+map_d  gcyc_flowers_t01_alb.png
+norm gcyc_flowers_t01_nrm.png
+newmtl yc_StartGridCheck
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_startgridcheck_alb.png
+map_d  gcyc_startgridcheck_alb.png
+norm gcyc_startgridcheck_nrm.png
+newmtl yc_Tile_m01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_tile_m01_alb.png
+map_d  gcyc_tile_m01_alb.png
+norm gcyc_tile_m01_nrm.png
+newmtl yc_TireBase_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_tirebase_m01_alb.png
+map_d  gcyc_tirebase_m01_alb.png
+norm gcyc_tirebase_m01_nrm.png
+newmtl yc_Tire_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_tire_m01_alb.png
+map_d  gcyc_tire_m01_alb.png
+norm gcyc_tire_m01_nrm.png
+newmtl yc_TreeLeaf_t01_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_treeleaf_t01_alb.png
+map_d  gcyc_treeleaf_t01_alb.png
+norm gcyc_treeleaf_t01_nrm.png
+newmtl yc_TreeLeaf_t02_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_treeleaf_t01_alb.png
+map_d  gcyc_treeleaf_t01_alb.png
+norm gcyc_treeleaf_t01_nrm.png
+newmtl yc_Tuta_m01_NB
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_tuta_m01_alb.png
+map_d  gcyc_tuta_m01_alb.png
+norm gcyc_tuta_m01_nrm.png
+newmtl yc_Wall_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wall_t01_alb.png
+map_d  gcyc_wall_t01_alb.png
+norm gcyc_wall_t01_nrm.png
+newmtl yc_Wall_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wall_t02_alb.png
+map_d  gcyc_wall_t02_alb.png
+norm gcyc_wall_t02_nrm.png
+newmtl yc_WhiteWall_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_whitewall_m01_alb.png
+map_d  gcyc_whitewall_m01_alb.png
+norm gcyc_whitewall_m01_nrm.png
+newmtl yc_Window_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_window_m01_alb.png
+map_d  gcyc_window_m01_alb.png
+norm gcyc_window_m01_nrm.png
+newmtl yc_Window_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_window_m02_alb.png
+map_d  gcyc_window_m02_alb.png
+norm gcyc_window_m02_nrm.png
+newmtl yc_WoodFence_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_woodfence_t01_alb.png
+map_d  gcyc_woodfence_t01_alb.png
+norm gcyc_woodfence_t01_nrm.png
+newmtl yc_WoodWall_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_woodwall_m01_alb.png
+map_d  gcyc_woodwall_m01_alb.png
+norm gcyc_woodwall_m01_nrm.png
+newmtl yc_Wood_m02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wood_m02_alb.png
+map_d  gcyc_wood_m02_alb.png
+norm gcyc_wood_m02_nrm.png
+newmtl yc_Wood_m03
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wood_m03_alb.png
+map_d  gcyc_wood_m03_alb.png
+norm gcyc_wood_m03_nrm.png
+newmtl yc_Wood_m06
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wood_m06_alb.png
+map_d  gcyc_wood_m06_alb.png
+norm gcyc_wood_m06_nrm.png
+newmtl yc_Wood_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wood_t01_alb.png
+map_d  gcyc_wood_t01_alb.png
+norm gcyc_wood_t01_nrm.png
+newmtl yc_Wood_t02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_wood_t02_alb.png
+map_d  gcyc_wood_t02_alb.png
+norm gcyc_wood_t02_nrm.png
+newmtl yc_YoshiParts_m01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_yoshiparts_m01_alb.png
+map_d  gcyc_yoshiparts_m01_alb.png
+norm gcyc_yoshiparts_m01_nrm.png
+
+newmtl yc_YoshiShip
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_ship_alb.png
+map_d  gcyc_ship_alb.png
+norm gcyc_ship_nrm.png
+newmtl yc_karts
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd  gcyc_karts_alb.png
+map_d  gcyc_karts_alb.png
+norm gcyc_karts_nrm.png
